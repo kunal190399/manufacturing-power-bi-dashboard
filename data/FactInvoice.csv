@@ -1,0 +1,3 @@
+DocumentLine,DateKey,CustomerKey,ProductKey,SalesGBP,CostGBP
+INV-01/1,20260401,C1,P1,1000,600
+CREDIT-01/1,20260402,C1,P1,-100,-60

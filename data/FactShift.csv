@@ -1,0 +1,2 @@
+Shift,DateKey,ProductKey,LineKey,PlannedMin,RunMin,IdealMetresPerMin,InputM,OutputM,FirstPassM,RecoveredM
+S1,20260402,P1,L1,480,420,2,800,756,720,12

@@ -1,0 +1,6 @@
+Deal,DateKey,CustomerKey,ProductKey,Status,ValueGBP,Probability
+A,20260401,C1,P1,open,8000,0.25
+A,20260402,C1,P1,open,8000,0.50
+B,20260401,C2,P2,open,1000,0.75
+B,20260402,C2,P2,won,1000,1.00
+A,20260403,C1,P1,won,8000,1.00
